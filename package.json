@@ -14,4 +14,8 @@
   "resolutions": {
   "@babel/preset-env": "^7.16.0"
   }
+  "scripts": {
+  "start": "parcel index.html",
+  "build": "parcel build index.html"
+  }
 }
