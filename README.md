@@ -2,6 +2,8 @@
 
 A comprehensive parking lot management solution built with modern web technologies to streamline vehicle entry, exit, and payment processing.
 
+🔗 **Deployed Project:** [Live Streamlit App](https://capstone-project-deployed.streamlit.app/)
+
 ## ✨ Features
 
 - **User-friendly Interface:** Intuitive dashboard for parking operators
