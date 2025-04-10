@@ -21,3 +21,13 @@ A comprehensive parking lot management solution built with modern web technologi
 2. Login with credentials (default: shreyas/1234)
 3. Navigate the dashboard to manage parking operations
 4. Configure settings through the admin panel
+
+## License
+
+© 2025 Shreyas Kasture
+
+All rights reserved.
+
+This software and its source code are the intellectual property of the author. Unauthorized copying, distribution, modification, or usage in any form is strictly prohibited without explicit written permission.
+
+For licensing inquiries, please contact: [shreyas200410@gmail.com](shreyas200410@gmail.com)
